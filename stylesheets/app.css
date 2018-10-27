@@ -3,7 +3,12 @@
 }
 */
 
-.icon {
-    color: blue;
+.navbar {
+    background-color: #0c907d;
+    color: #0c907d;
+}
+
+.fas {
+    color: #0c907d;
     font-size: 60px;
 }

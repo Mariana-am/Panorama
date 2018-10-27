@@ -1,6 +1,7 @@
 //alert('hello world')
 
-function iswindy(speed) {
+
+/* function iswindy(speed) {
     if (speed > 5){
         return true;
     } else {
@@ -19,3 +20,4 @@ if (iswindy(10) === true) {
 } else {
     alert('it is not windy');
 }
+*/
