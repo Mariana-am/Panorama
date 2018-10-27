@@ -1,7 +1,3 @@
-/* body {
-    background: burlywood;
-}
-*/
 
 .navbar {
     background-color: #0c907d;
@@ -11,4 +7,9 @@
 .fas {
     color: #0c907d;
     font-size: 60px;
+}
+
+img { 
+    max-width: 99%; 
+    height: auto; 
 }
