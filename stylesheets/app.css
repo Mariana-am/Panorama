@@ -2,6 +2,7 @@
 .navbar {
     background-color: #0c907d;
     color: #0c907d;
+    height: 70px;
 }
 
 .fas {
@@ -12,4 +13,14 @@
 img { 
     max-width: 100%; 
     height: auto; 
+}
+
+.btn-outline-success {
+    color: white;
+    border-color: white;
+}
+
+.btn-about {
+    background-color: transparent;
+    color: white;
 }
