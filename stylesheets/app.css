@@ -10,9 +10,24 @@
     font-size: 60px;
 }
 
-img { 
+.banner {
+    position: relative;
+    height: 90%;
+}
+
+.lisbon-banner { 
     max-width: 100%; 
-    height: auto; 
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+   
+
+}
+
+.pano-logo { 
+    width: 300px; 
+    max-width: 100%; 
+    height: auto;
 }
 
 .btn-outline-success {
@@ -24,3 +39,4 @@ img {
     background-color: transparent;
     color: white;
 }
+
